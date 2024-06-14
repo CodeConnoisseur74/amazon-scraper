@@ -1,0 +1,87 @@
+{
+    "terminal.integrated.tabs.defaultColor": "terminal.ansiMagenta",
+    "workbench.colorCustomizations": {
+        "terminal.foreground": "#c79bff",
+        "terminalCursor.foreground": "#c79bff"
+    },
+    "files.exclude": {
+        "**/.DS_Store": true,
+        "**/.git": true,
+        "**/.github": true,
+        "**/.gitp*": true,
+        "**/.hg": true,
+        "**/.svn": true,
+        "**/.vscode": true,
+        "**/core.Microsoft*": true,
+        "**/core.mongo*": true,
+        "**/core.python*": true,
+        "**/CVS": true
+    },
+    "editor.fontSize": 16,
+    "editor.fontFamily": "ComicShannsMono Nerd Font Mono",
+    "editor.wordWrap": "on",
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "files.autoSave": "afterDelay",
+    "workbench.colorTheme": "NiTROUS Theme (Dark)",
+    "editor.rulers": [
+        79
+    ],
+    "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+    "editor.guides.bracketPairs": "active",
+    "[python]": {
+        "editor.formatOnSave": true,
+        "editor.formatOnPaste": true,
+        "editor.defaultFormatter": "charliermarsh.ruff",
+        "editor.tabSize": 4,
+        "editor.insertSpaces": true,
+        "editor.codeActionsOnSave": {
+            "source.fixAll": "always",
+            "source.organizeImports": "explicit"
+        }
+    },
+    "editor.mouseWheelZoom": true,
+    "terminal.integrated.fontSize": 16,
+    "terminal.integrated.fontWeight": "bold",
+    "terminal.integrated.copyOnSelection": true,
+    "window.zoomLevel": 1,
+    "code-runner.runInTerminal": true,
+    "editor.fontWeight": "bold",
+    "editor.codeLensFontFamily": "ComicShannsMono Nerd Font Mono",
+    "editor.experimentalInlineEdit.fontFamily": "ComicShannsMono Nerd Font Mono",
+    "editor.inlayHints.fontFamily": "ComicShannsMono Nerd Font Mono",
+    "editor.inlineSuggest.fontFamily": "ComicShannsMono Nerd Font Mono",
+    "debug.console.fontFamily": "ComicShannsMono Nerd Font Mono",
+    "scm.inputFontFamily": "ComicShannsMono Nerd Font Mono",
+    "terminal.integrated.fontFamily": "ComicShannsMono Nerd Font Mono",
+    "notebook.output.fontFamily": "ComicShannsMono Nerd Font Mono",
+    "chat.editor.fontFamily": "ComicShannsMono Nerd Font Mono",
+    "chat.editor.fontWeight": "ComicShannsMono Nerd Font Mono",
+    "editor.codeActionsOnSave": {},
+    "workbench.iconTheme": "hotline-technicolor",
+    "evenBetterToml.formatter.allowedBlankLines": 1,
+    "evenBetterToml.formatter.columnWidth": 1,
+    "code-runner.clearPreviousOutput": true,
+    "glassit-linux.opacity": 90,
+    "editor.minimap.enabled": true,
+    "python.analysis.inlayHints.callArgumentNames": "off",
+    "ruff.showNotifications": "always",
+    "editor.formatOnType": false,
+    "autoDocstring.startOnNewLine": true,
+    "terminal.integrated.mouseWheelZoom": true,
+    "editor.defaultFormatter": "charliermarsh.ruff",
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "ruff.lint.enable": true,
+    "ruff.lineLength": 79,
+    "ruff.enable": true,
+    "ruff.fixAll": true,
+    "ruff.ignoreStandardLibrary": true,
+    "git.allowNoVerifyCommit": true,
+    "editor.unicodeHighlight.ambiguousCharacters": true,
+    "editor.fontLigatures": true,
+    "[jsonc]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+}
