@@ -1,0 +1,5 @@
+# Extend the `ruff.toml` file in the parent directory...
+extend = "../ruff.toml"
+
+# ...but use a different line length.
+line-length = 79
